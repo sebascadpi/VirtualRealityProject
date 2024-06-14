@@ -1,5 +1,7 @@
-/Config
-/Content
-/Plugins
-/Source
-*.uproject
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+/Script
+/Android_ASTC
